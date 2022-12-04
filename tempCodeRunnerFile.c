@@ -1,0 +1,1 @@
+    insere(arvore,34);
